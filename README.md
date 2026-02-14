@@ -1,7 +1,7 @@
 # TailGrid CSS
 Layout Grid System based on Grid CSS
 --
-Demo Page: https://tailgrid.netlify.com \
+Demo Page: https://tailgrid.netlify.app \
 Docs: (coming soon)
 
 ## Features
